@@ -33,7 +33,7 @@
 ## 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Adii0906&limit=5&theme=dark&combine_all_yearly_contributions=true)  -->
 
-## Badges 
+## 🏅 Badges 
 <!-- [![Holopin Badges](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://holopin.io/@adii0906)
 [![An image of @Adii0906's Holopin badges](https://holopin.io/api/user/board?user=adii0906)](https://holopin.io/@adii0906)  -->
 
