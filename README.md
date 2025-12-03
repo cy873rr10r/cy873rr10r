@@ -1,4 +1,4 @@
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cy873rr10r) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-shahi1221) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@cy873rr10r) 
@@ -27,10 +27,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cy873rr10r&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cy873rr10r&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Adii0906&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Adii0906&limit=5&theme=dark&combine_all_yearly_contributions=true)  -->
 
 # Badges 
